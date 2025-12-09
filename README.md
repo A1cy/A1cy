@@ -63,7 +63,9 @@ experience: 6+ years
 </td>
 <td width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding" width="100%" />
+<a href="https://app.daily.dev/a1cy">
+  <img src="https://api.daily.dev/devcards/fd92dea392394781a4d0c3cdd8ed25da.png" width="100%" alt="Abdulhadi Alturafi's Dev Card"/>
+</a>
 
 </td>
 </tr>
