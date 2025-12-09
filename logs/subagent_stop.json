@@ -75,5 +75,71 @@
     "agent_id": "9d5fadee",
     "agent_transcript_path": "/home/a1xai/.claude/projects/-mnt-c-A1-Codes-A1cy/agent-9d5fadee.jsonl",
     "logged_at": "2025-12-09T11:44:37.983696"
+  },
+  {
+    "session_id": "ce506764-3fa4-4a1a-add9-cc36f3efdbff",
+    "transcript_path": "/home/a1xai/.claude/projects/-mnt-c-A1-Codes-A1cy/ce506764-3fa4-4a1a-add9-cc36f3efdbff.jsonl",
+    "cwd": "/mnt/c/A1 Codes/A1cy",
+    "permission_mode": "default",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "5fa1d210",
+    "agent_transcript_path": "/home/a1xai/.claude/projects/-mnt-c-A1-Codes-A1cy/agent-5fa1d210.jsonl",
+    "logged_at": "2025-12-09T13:19:58.108206"
+  },
+  {
+    "session_id": "ce506764-3fa4-4a1a-add9-cc36f3efdbff",
+    "transcript_path": "/home/a1xai/.claude/projects/-mnt-c-A1-Codes-A1cy/ce506764-3fa4-4a1a-add9-cc36f3efdbff.jsonl",
+    "cwd": "/mnt/c/A1 Codes/A1cy",
+    "permission_mode": "default",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "3be62fc0",
+    "agent_transcript_path": "/home/a1xai/.claude/projects/-mnt-c-A1-Codes-A1cy/agent-3be62fc0.jsonl",
+    "logged_at": "2025-12-09T13:20:03.617283"
+  },
+  {
+    "session_id": "ce506764-3fa4-4a1a-add9-cc36f3efdbff",
+    "transcript_path": "/home/a1xai/.claude/projects/-mnt-c-A1-Codes-A1cy/ce506764-3fa4-4a1a-add9-cc36f3efdbff.jsonl",
+    "cwd": "/mnt/c/A1 Codes/A1cy",
+    "permission_mode": "plan",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "0766827f",
+    "agent_transcript_path": "/home/a1xai/.claude/projects/-mnt-c-A1-Codes-A1cy/agent-0766827f.jsonl",
+    "logged_at": "2025-12-09T13:40:39.043739"
+  },
+  {
+    "session_id": "ce506764-3fa4-4a1a-add9-cc36f3efdbff",
+    "transcript_path": "/home/a1xai/.claude/projects/-mnt-c-A1-Codes-A1cy/ce506764-3fa4-4a1a-add9-cc36f3efdbff.jsonl",
+    "cwd": "/mnt/c/A1 Codes/A1cy",
+    "permission_mode": "plan",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "98969819",
+    "agent_transcript_path": "/home/a1xai/.claude/projects/-mnt-c-A1-Codes-A1cy/agent-98969819.jsonl",
+    "logged_at": "2025-12-09T13:40:45.659185"
+  },
+  {
+    "session_id": "ce506764-3fa4-4a1a-add9-cc36f3efdbff",
+    "transcript_path": "/home/a1xai/.claude/projects/-mnt-c-A1-Codes-A1cy/ce506764-3fa4-4a1a-add9-cc36f3efdbff.jsonl",
+    "cwd": "/mnt/c/A1 Codes/A1cy",
+    "permission_mode": "plan",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "8ea51164",
+    "agent_transcript_path": "/home/a1xai/.claude/projects/-mnt-c-A1-Codes-A1cy/agent-8ea51164.jsonl",
+    "logged_at": "2025-12-09T13:42:05.076634"
+  },
+  {
+    "session_id": "ce506764-3fa4-4a1a-add9-cc36f3efdbff",
+    "transcript_path": "/home/a1xai/.claude/projects/-mnt-c-A1-Codes-A1cy/ce506764-3fa4-4a1a-add9-cc36f3efdbff.jsonl",
+    "cwd": "/mnt/c/A1 Codes/A1cy",
+    "permission_mode": "default",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "9ae6d8f3",
+    "agent_transcript_path": "/home/a1xai/.claude/projects/-mnt-c-A1-Codes-A1cy/agent-9ae6d8f3.jsonl",
+    "logged_at": "2025-12-09T13:50:15.473760"
   }
 ]

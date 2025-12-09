@@ -48,5 +48,65 @@
     "notification_type": "idle_prompt",
     "timestamp": "2025-12-09T11:52:42.806486",
     "logged_at": "2025-12-09T11:52:42.809659"
+  },
+  {
+    "session_id": "ce506764-3fa4-4a1a-add9-cc36f3efdbff",
+    "transcript_path": "/home/a1xai/.claude/projects/-mnt-c-A1-Codes-A1cy/ce506764-3fa4-4a1a-add9-cc36f3efdbff.jsonl",
+    "cwd": "/mnt/c/A1 Codes/A1cy",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "timestamp": "2025-12-09T13:31:40.329296",
+    "logged_at": "2025-12-09T13:31:40.332725"
+  },
+  {
+    "session_id": "ce506764-3fa4-4a1a-add9-cc36f3efdbff",
+    "transcript_path": "/home/a1xai/.claude/projects/-mnt-c-A1-Codes-A1cy/ce506764-3fa4-4a1a-add9-cc36f3efdbff.jsonl",
+    "cwd": "/mnt/c/A1 Codes/A1cy",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "timestamp": "2025-12-09T13:36:58.156572",
+    "logged_at": "2025-12-09T13:36:58.160047"
+  },
+  {
+    "session_id": "ce506764-3fa4-4a1a-add9-cc36f3efdbff",
+    "transcript_path": "/home/a1xai/.claude/projects/-mnt-c-A1-Codes-A1cy/ce506764-3fa4-4a1a-add9-cc36f3efdbff.jsonl",
+    "cwd": "/mnt/c/A1 Codes/A1cy",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your attention",
+    "notification_type": "permission_prompt",
+    "timestamp": "2025-12-09T13:42:36.573397",
+    "logged_at": "2025-12-09T13:42:36.577492"
+  },
+  {
+    "session_id": "ce506764-3fa4-4a1a-add9-cc36f3efdbff",
+    "transcript_path": "/home/a1xai/.claude/projects/-mnt-c-A1-Codes-A1cy/ce506764-3fa4-4a1a-add9-cc36f3efdbff.jsonl",
+    "cwd": "/mnt/c/A1 Codes/A1cy",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "timestamp": "2025-12-09T14:10:08.234250",
+    "logged_at": "2025-12-09T14:10:08.238506"
+  },
+  {
+    "session_id": "ce506764-3fa4-4a1a-add9-cc36f3efdbff",
+    "transcript_path": "/home/a1xai/.claude/projects/-mnt-c-A1-Codes-A1cy/ce506764-3fa4-4a1a-add9-cc36f3efdbff.jsonl",
+    "cwd": "/mnt/c/A1 Codes/A1cy",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "timestamp": "2025-12-09T14:42:30.230212",
+    "logged_at": "2025-12-09T14:42:30.233887"
+  },
+  {
+    "session_id": "ce506764-3fa4-4a1a-add9-cc36f3efdbff",
+    "transcript_path": "/home/a1xai/.claude/projects/-mnt-c-A1-Codes-A1cy/ce506764-3fa4-4a1a-add9-cc36f3efdbff.jsonl",
+    "cwd": "/mnt/c/A1 Codes/A1cy",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "timestamp": "2025-12-09T14:54:55.488890",
+    "logged_at": "2025-12-09T14:54:55.493246"
   }
 ]

@@ -19,6 +19,7 @@
 <div align="center">
 
 <!-- Profile Stats Badges -->
+
 ![Public Repos](https://img.shields.io/badge/Public%20Repos-40-9D4EDD?style=for-the-badge&logo=github&logoColor=white)
 ![Private Repos](https://img.shields.io/badge/Private%20Repos-60-00D9FF?style=for-the-badge&logo=github&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/A1cy?style=for-the-badge&logo=github&color=FF006E&logoColor=white)
@@ -52,12 +53,13 @@ experience: 6+ years
 <br>
 
 📈 **Career Highlights:**
+
 - ✅ 50+ Projects Delivered
 - ✅ 40+ Satisfied Clients
 - ✅ Enterprise Deployments
 - ✅ Microsoft Dynamics 365 Certified
 
-🌐 **Portfolio:** [a1hadi.com/cv](https://www.a1hadi.com/cv/)
+🌐 **Portfolio:** [a1hadi.com](https://www.a1hadi.com)
 📫 **Email:** a1hvdy@gmail.com
 
 </td>
@@ -80,10 +82,12 @@ experience: 6+ years
 <div align="center">
 
 <!-- GitHub Activity Stats -->
-![Commits](https://img.shields.io/github/commit-activity/y/A1cy/A1cy?style=for-the-badge&logo=git&label=Commits%20(This%20Year)&color=9D4EDD&logoColor=white)
+
+![Commits](<https://img.shields.io/github/commit-activity/y/A1cy/A1cy?style=for-the-badge&logo=git&label=Commits%20(This%20Year)&color=9D4EDD&logoColor=white>)
 ![Last Commit](https://img.shields.io/github/last-commit/A1cy/A1cy?style=for-the-badge&logo=github&label=Last%20Commit&color=00D9FF&logoColor=white)
 
 <!-- Most Used Languages -->
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-45%25-0D1117?style=for-the-badge&logo=javascript&logoColor=00D9FF)
 ![PHP](https://img.shields.io/badge/PHP-25%25-0D1117?style=for-the-badge&logo=php&logoColor=FF006E)
 ![Python](https://img.shields.io/badge/Python-20%25-0D1117?style=for-the-badge&logo=python&logoColor=9D4EDD)
@@ -101,24 +105,28 @@ experience: 6+ years
 <div align="center">
 
 ### Languages
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00D9FF)
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=9D4EDD)
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&logoColor=FF006E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00D9FF)
 
 ### Frontend Development
+
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=00D9FF)
 ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=FFFFFF)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=00D9FF)
 ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=FF006E)
 
 ### Backend Development
+
 ![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF006E)
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=9D4EDD)
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00D9FF)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=9D4EDD)
 
 ### AI/ML & DevOps
+
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF006E)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=9D4EDD)
 ![Azure](https://img.shields.io/badge/-Azure-0D1117?style=for-the-badge&logo=microsoft-azure&logoColor=00D9FF)
@@ -135,6 +143,7 @@ experience: 6+ years
 <div align="center">
 
 <!-- Achievement Badges -->
+
 ![Projects](https://img.shields.io/badge/Projects-50%2B-9D4EDD?style=for-the-badge&logo=rocket&logoColor=white)
 ![Clients](https://img.shields.io/badge/Clients-40%2B-00D9FF?style=for-the-badge&logo=users&logoColor=white)
 ![Experience](https://img.shields.io/badge/Experience-6%2B%20Years-FF006E?style=for-the-badge&logo=calendar&logoColor=white)
@@ -159,12 +168,14 @@ experience: 6+ years
 <div align="center">
 
 <!-- Total Contributions Badge -->
+
 ![Total Contributions](https://img.shields.io/badge/Total%20Contributions-1,648%2B-9D4EDD?style=for-the-badge&logo=github&logoColor=white)
 ![This Year](https://img.shields.io/badge/This%20Year-Active%20Contributor-00D9FF?style=for-the-badge&logo=git&logoColor=white)
 
 <br><br>
 
 <!-- Year-long Contribution Heatmap -->
+
 ![Contribution Heatmap](https://ghchart.rshah.org/9D4EDD/A1cy)
 
 </div>
@@ -174,6 +185,7 @@ experience: 6+ years
 ## 🚀 Featured Projects & Achievements
 
 ### 🌐 [Professional Portfolio](https://www.a1hadi.com/cv/)
+
 > **Award-winning modern portfolio** showcasing 6+ years of enterprise development with interactive animations, comprehensive project documentation, and client testimonials. Features responsive design optimized for all devices.
 
 **Built With:** `Next.js` • `Tailwind CSS` • `Framer Motion` • `TypeScript` • `Vercel`
@@ -183,11 +195,13 @@ experience: 6+ years
 ---
 
 ### 🛒 Enterprise E-commerce Platform
+
 > **Scalable full-stack e-commerce solution** serving enterprise clients with advanced product management, real-time order processing, multi-payment gateway integration, and cloud deployment on Azure infrastructure.
 
 **Built With:** `React` • `Laravel` • `MySQL` • `Azure` • `Docker` • `Redis` • `Elasticsearch`
 
 **Impact:**
+
 - 📦 1000+ products with dynamic catalog management
 - 💳 Multiple payment gateway integrations (Stripe, PayPal, local gateways)
 - ☁️ Azure cloud infrastructure with auto-scaling
@@ -197,11 +211,13 @@ experience: 6+ years
 ---
 
 ### 🤖 AI/ML Business Intelligence Suite
+
 > **Enterprise machine learning platform** for natural language processing, sentiment analysis, predictive analytics, and automated business intelligence. Serves multiple enterprise clients with real-time data processing.
 
 **Built With:** `Python` • `TensorFlow` • `PyTorch` • `FastAPI` • `React` • `PostgreSQL` • `Docker`
 
 **Applications:**
+
 - 🧠 Advanced NLP with transformer models
 - 📊 Multi-class text classification with 95%+ accuracy
 - 🔮 Predictive modeling for business forecasting
@@ -211,6 +227,7 @@ experience: 6+ years
 ---
 
 ### 💼 Microsoft Dynamics 365 Integration & Certification
+
 > **Enterprise ERP specialist** certified in Microsoft Dynamics 365, implementing comprehensive business process automation solutions. Experience in CRM integration, workflow automation, and custom module development.
 
 **Certification:** [Verify Certificate](https://coursera.org/verify/SLYTIOO5TJJE) (July 2025)
@@ -229,6 +246,7 @@ experience: 6+ years
 **Location:** Riyadh, Saudi Arabia
 
 **Key Achievements:**
+
 - 🏆 Architected and delivered 30+ enterprise e-commerce platforms generating substantial revenue
 - 🚀 Led full-stack development for applications serving 1000+ products with 99.9% uptime
 - ☁️ Implemented comprehensive DevOps pipelines with Azure cloud services, reducing deployment time by 60%
@@ -248,6 +266,7 @@ experience: 6+ years
 **Location:** Riyadh, Saudi Arabia
 
 **Key Achievements:**
+
 - 🎯 Developed 15+ enterprise e-commerce platforms and CMS solutions with custom functionality
 - 💻 Built responsive web applications using PHP frameworks, achieving cross-browser compatibility
 - 🗃️ Implemented optimized database designs reducing query times by 50%
@@ -265,6 +284,7 @@ experience: 6+ years
 **Location:** Riyadh, Saudi Arabia
 
 **Key Achievements:**
+
 - 🎨 Created 20+ responsive user interfaces with pixel-perfect design implementation
 - 📱 Achieved 100% mobile responsiveness across all projects with modern CSS frameworks
 - 🔗 Implemented WordPress solutions with custom themes, increasing client satisfaction
@@ -284,13 +304,13 @@ experience: 6+ years
 <br>
 
 **🎓 Bachelor of Applied Science (BASc) - Business & IT**
-*IU International University of Applied Sciences* • 2021-2025 (In Progress)
+_IU International University of Applied Sciences_ • 2021-2025 (In Progress)
 
 **📜 Software Development Optimization Professional**
-*Universidad Anáhuac Mayab* • December 2021 - December 2023
+_Universidad Anáhuac Mayab_ • December 2021 - December 2023
 
 **🏅 Introduction to Microsoft Dynamics 365**
-*Microsoft via Coursera* • July 2025
+_Microsoft via Coursera_ • July 2025
 [Verify Certificate](https://coursera.org/verify/SLYTIOO5TJJE)
 
 </details>

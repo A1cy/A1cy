@@ -6,5 +6,29 @@
     "hook_event_name": "SessionStart",
     "source": "startup",
     "logged_at": "2025-12-09T10:45:18.979443"
+  },
+  {
+    "session_id": "ce506764-3fa4-4a1a-add9-cc36f3efdbff",
+    "transcript_path": "/home/a1xai/.claude/projects/-mnt-c-A1-Codes-A1cy/ce506764-3fa4-4a1a-add9-cc36f3efdbff.jsonl",
+    "cwd": "/mnt/c/A1 Codes/A1cy",
+    "hook_event_name": "SessionStart",
+    "source": "resume",
+    "logged_at": "2025-12-09T13:19:50.815476"
+  },
+  {
+    "session_id": "ce506764-3fa4-4a1a-add9-cc36f3efdbff",
+    "transcript_path": "/home/a1xai/.claude/projects/-mnt-c-A1-Codes-A1cy/ce506764-3fa4-4a1a-add9-cc36f3efdbff.jsonl",
+    "cwd": "/mnt/c/A1 Codes/A1cy",
+    "hook_event_name": "SessionStart",
+    "source": "compact",
+    "logged_at": "2025-12-09T13:26:36.717913"
+  },
+  {
+    "session_id": "ce506764-3fa4-4a1a-add9-cc36f3efdbff",
+    "transcript_path": "/home/a1xai/.claude/projects/-mnt-c-A1-Codes-A1cy/ce506764-3fa4-4a1a-add9-cc36f3efdbff.jsonl",
+    "cwd": "/mnt/c/A1 Codes/A1cy",
+    "hook_event_name": "SessionStart",
+    "source": "resume",
+    "logged_at": "2025-12-09T13:50:09.668873"
   }
 ]
