@@ -41,8 +41,8 @@
 <div align="center">
 
 <!-- Profile Stats Badges -->
-![Public Repos](https://img.shields.io/badge/Public%20Repos-PUBLIC_REPOS_COUNT-9D4EDD?style=for-the-badge&logo=github&logoColor=white)
-![Private Repos](https://img.shields.io/badge/Private%20Repos-PRIVATE_REPOS_COUNT-00D9FF?style=for-the-badge&logo=github&logoColor=white)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-40-9D4EDD?style=for-the-badge&logo=github&logoColor=white)
+![Private Repos](https://img.shields.io/badge/Private%20Repos-60-00D9FF?style=for-the-badge&logo=github&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/A1cy?style=for-the-badge&logo=github&color=FF006E&logoColor=white)
 ![Followers](https://img.shields.io/github/followers/A1cy?style=for-the-badge&logo=github&color=FF006E&logoColor=white)
 ![Profile Views](https://komarev.com/ghpvc/?username=A1cy&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
