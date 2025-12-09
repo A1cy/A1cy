@@ -1,13 +1,14 @@
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
+# Cyberpunk theme with purple snake and neon colors
 
-name: Generate Snake
+name: Generate Snake Animation
 
-# Controls when the action will run. This action runs every 6 hours.
+# Controls when the action will run. This action runs every 12 hours.
 
 on:
   schedule:
-      # every 6 hours
-    - cron: "0 */6 * * *"
+      # every 12 hours
+    - cron: "0 */12 * * *"
 
 # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
@@ -23,16 +24,16 @@ jobs:
     steps:
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
-    # Generates the snake  
-      - uses: Platane/snk@master
+    # Generates the snake with cyberpunk colors
+      - uses: Platane/snk/svg-only@v3
         id: snake-gif
         with:
           github_user_name: A1cy
-          # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          # Cyberpunk color palette: purple snake, dark background, cyan/purple highlights
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#9D4EDD&color_dots=#0D1117,#1a1b26,#3b4252,#00D9FF,#9D4EDD
 
      # show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
@@ -45,7 +46,7 @@ jobs:
           branch: master
           force: true
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - uses: crazy-max/ghaction-github-pages@v3
         with:
           # the output branch we mentioned above
           target_branch: output
