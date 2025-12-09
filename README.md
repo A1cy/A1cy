@@ -1,27 +1,5 @@
 <div align="center">
 
-<!-- Mobile Responsiveness & Dark Mode Support -->
-<meta name="color-scheme" content="dark light">
-
-<style>
-  @media (max-width: 768px) {
-    img[alt="Coding"] {
-      display: block;
-      margin: 0 auto;
-      float: none !important;
-      width: 100% !important;
-      max-width: 320px;
-    }
-
-    /* Stack badges vertically on mobile */
-    div[align="center"] img[src*="shields.io"],
-    div[align="center"] img[src*="img.shields.io"] {
-      display: inline-block;
-      margin: 4px 2px;
-    }
-  }
-</style>
-
 <!-- Animated Typing Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi%2C+I'm+Abdulhadi+Alturafi;Full-Stack+Developer+%26+AI+Specialist;4%2B+Years+Building+Enterprise+Solutions;50%2B+Projects+%7C+40%2B+Clients;React+%E2%80%A2+Next.js+%E2%80%A2+Laravel+%E2%80%A2+Python;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
@@ -186,11 +164,10 @@ specialization: [Web Development, AI/ML, DevOps, Enterprise Solutions]
 
 <div align="center">
 
-<!-- Commit Frequency & Activity -->
-![Commit Activity](https://img.shields.io/github/commit-activity/m/A1cy/A1cy?style=for-the-badge&logo=git&label=Commits%20Per%20Month&color=9D4EDD&logoColor=white)
-![Contributors](https://img.shields.io/github/contributors/A1cy/A1cy?style=for-the-badge&logo=github&label=Contributors&color=00D9FF&logoColor=white)
+<!-- GitHub Streak Stats (Current & Longest Streaks) -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=A1cy&theme=synthwave&hide_border=true&background=0D1117&ring=9D4EDD&fire=FF006E&currStreakLabel=00D9FF&sideLabels=9D4EDD&currStreakNum=FFFFFF&sideNums=FFFFFF)
 
-<!-- Commit Heatmap Visualization -->
+<!-- Commit Heatmap (Year-long Activity) -->
 ![Commit Heatmap](https://ghchart.rshah.org/9D4EDD/A1cy)
 
 </div>

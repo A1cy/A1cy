@@ -5,11 +5,16 @@ on:
     - cron: "0 0 * * *"  # Daily at midnight
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: anmol098/waka-readme-stats@master
         with:
