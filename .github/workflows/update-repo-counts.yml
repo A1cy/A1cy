@@ -1,0 +1,47 @@
+name: Update Repository Counters
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # Every 6 hours
+  workflow_dispatch:
+  push:
+    branches: [master]
+
+jobs:
+  update-counts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.REPO_COUNT_TOKEN }}
+
+      - name: Fetch repository counts
+        id: repo_counts
+        run: |
+          # Get public repo count
+          PUBLIC_COUNT=$(curl -H "Authorization: token ${{ secrets.REPO_COUNT_TOKEN }}" \
+            "https://api.github.com/users/A1cy" | jq '.public_repos')
+
+          # Get total repos (authenticated)
+          TOTAL_COUNT=$(curl -H "Authorization: token ${{ secrets.REPO_COUNT_TOKEN }}" \
+            "https://api.github.com/user/repos?per_page=100" | jq '. | length')
+
+          # Calculate private count
+          PRIVATE_COUNT=$((TOTAL_COUNT - PUBLIC_COUNT))
+
+          echo "PUBLIC_COUNT=$PUBLIC_COUNT" >> $GITHUB_OUTPUT
+          echo "PRIVATE_COUNT=$PRIVATE_COUNT" >> $GITHUB_OUTPUT
+
+      - name: Update README with counts
+        run: |
+          # Replace badge placeholders
+          sed -i "s/PUBLIC_REPOS_COUNT/${{ steps.repo_counts.outputs.PUBLIC_COUNT }}/g" README.md
+          sed -i "s/PRIVATE_REPOS_COUNT/${{ steps.repo_counts.outputs.PRIVATE_COUNT }}/g" README.md
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update repository counts [skip ci]"
+          git push

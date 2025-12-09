@@ -1,18 +1,49 @@
 <div align="center">
 
+<!-- Mobile Responsiveness & Dark Mode Support -->
+<meta name="color-scheme" content="dark light">
+
+<style>
+  @media (max-width: 768px) {
+    img[alt="Coding"] {
+      display: block;
+      margin: 0 auto;
+      float: none !important;
+      width: 100% !important;
+      max-width: 320px;
+    }
+
+    /* Stack badges vertically on mobile */
+    div[align="center"] img[src*="shields.io"],
+    div[align="center"] img[src*="img.shields.io"] {
+      display: inline-block;
+      margin: 4px 2px;
+    }
+  }
+</style>
+
 <!-- Animated Typing Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi%2C+I'm+Abdulhadi+Alturafi;Full-Stack+Developer+%26+AI+Specialist;4%2B+Years+Building+Enterprise+Solutions;50%2B+Projects+%7C+40%2B+Clients;React+%E2%80%A2+Next.js+%E2%80%A2+Laravel+%E2%80%A2+Python;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
 </div>
 
-<!-- Cyberpunk Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=180&section=header&text=Full-Stack%20Developer&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Building%20the%20Future%20with%20Code%20%26%20AI&descAlignY=55&descSize=16" width="100%" />
+<!-- Mobile-Responsive Wave Banner -->
+<picture>
+  <source media="(min-width: 769px)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=180&section=header&text=Full-Stack%20Developer&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Building%20the%20Future%20with%20Code%20%26%20AI&descAlignY=55&descSize=16&width=1200">
+  <source media="(max-width: 768px)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=120&section=header&text=Full-Stack%20Developer&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Building%20the%20Future&descAlignY=60&descSize=12&width=768">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=180&section=header&text=Full-Stack%20Developer&fontSize=45&fontColor=fff"
+    width="100%"
+    alt="Header Banner">
+</picture>
 
 <div align="center">
 
 <!-- Profile Stats Badges -->
-![Repos](https://img.shields.io/github/repos/A1cy?style=for-the-badge&logo=github&label=Total%20Repos&color=9D4EDD&logoColor=white)
-![Stars](https://img.shields.io/github/stars/A1cy?style=for-the-badge&logo=github&color=00D9FF&logoColor=white)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-PUBLIC_REPOS_COUNT-9D4EDD?style=for-the-badge&logo=github&logoColor=white)
+![Private Repos](https://img.shields.io/badge/Private%20Repos-PRIVATE_REPOS_COUNT-00D9FF?style=for-the-badge&logo=github&logoColor=white)
+![Stars](https://img.shields.io/github/stars/A1cy?style=for-the-badge&logo=github&color=FF006E&logoColor=white)
 ![Followers](https://img.shields.io/github/followers/A1cy?style=for-the-badge&logo=github&color=FF006E&logoColor=white)
 ![Profile Views](https://komarev.com/ghpvc/?username=A1cy&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
 
@@ -22,7 +53,16 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<!-- Mobile-Responsive Coding GIF -->
+<picture>
+  <source media="(min-width: 769px)"
+    srcset="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+  <img align="right"
+    alt="Coding"
+    width="400"
+    style="max-width: 100%; height: auto;"
+    src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+</picture>
 
 ```yaml
 name: Abdulhadi Alturafi
@@ -56,15 +96,35 @@ specialization: [Web Development, AI/ML, DevOps, Enterprise Solutions]
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=A1cy&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true)
+<!-- GitHub Activity Stats -->
+![Commits](https://img.shields.io/github/commit-activity/y/A1cy/A1cy?style=for-the-badge&logo=git&label=Commits%20(This%20Year)&color=9D4EDD&logoColor=white)
+![Last Commit](https://img.shields.io/github/last-commit/A1cy/A1cy?style=for-the-badge&logo=github&label=Last%20Commit&color=00D9FF&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A1cy&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF&langs_count=8)
+<!-- Most Used Languages -->
+![JavaScript](https://img.shields.io/badge/JavaScript-45%25-0D1117?style=for-the-badge&logo=javascript&logoColor=00D9FF)
+![PHP](https://img.shields.io/badge/PHP-25%25-0D1117?style=for-the-badge&logo=php&logoColor=FF006E)
+![Python](https://img.shields.io/badge/Python-20%25-0D1117?style=for-the-badge&logo=python&logoColor=9D4EDD)
+![TypeScript](https://img.shields.io/badge/TypeScript-10%25-0D1117?style=for-the-badge&logo=typescript&logoColor=00D9FF)
+
+</div>
+
+---
+
+## ⏱️ Coding Activity (Wakatime)
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </div>
 
 ---
 
 ## 🛠️ Technical Skills
+
+<details open>
+<summary><b>View Tech Stack</b></summary>
 
 <div align="center">
 
@@ -94,13 +154,19 @@ specialization: [Web Development, AI/ML, DevOps, Enterprise Solutions]
 
 </div>
 
+</details>
+
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=A1cy&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+<!-- Achievement Badges -->
+![Projects](https://img.shields.io/badge/Projects-50%2B-9D4EDD?style=for-the-badge&logo=rocket&logoColor=white)
+![Clients](https://img.shields.io/badge/Clients-40%2B-00D9FF?style=for-the-badge&logo=users&logoColor=white)
+![Experience](https://img.shields.io/badge/Experience-4%2B%20Years-FF006E?style=for-the-badge&logo=calendar&logoColor=white)
+![Certified](https://img.shields.io/badge/Microsoft-Dynamics%20365-9D4EDD?style=for-the-badge&logo=microsoft&logoColor=white)
 
 </div>
 
@@ -116,11 +182,16 @@ specialization: [Web Development, AI/ML, DevOps, Enterprise Solutions]
 
 ---
 
-## 🐍 Contribution Snake
+## 📊 Commit Activity
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/A1cy/A1cy/output/github-contribution-grid-snake-dark.svg)
+<!-- Commit Frequency & Activity -->
+![Commit Activity](https://img.shields.io/github/commit-activity/m/A1cy/A1cy?style=for-the-badge&logo=git&label=Commits%20Per%20Month&color=9D4EDD&logoColor=white)
+![Contributors](https://img.shields.io/github/contributors/A1cy/A1cy?style=for-the-badge&logo=github&label=Contributors&color=00D9FF&logoColor=white)
+
+<!-- Commit Heatmap Visualization -->
+![Commit Heatmap](https://ghchart.rshah.org/9D4EDD/A1cy)
 
 </div>
 
@@ -160,8 +231,12 @@ specialization: [Web Development, AI/ML, DevOps, Enterprise Solutions]
 
 ## 💼 Professional Experience
 
-### 🔥 Full-Stack Developer | MHG Trading CJSC
-**Jan 2022 - Present** • Riyadh, Saudi Arabia
+<details open>
+<summary><b>🔥 Full-Stack Developer | MHG Trading CJSC</b> (Jan 2022 - Present)</summary>
+
+<br>
+
+**Location:** Riyadh, Saudi Arabia
 
 - Architecting and developing enterprise e-commerce platforms using React, Next.js, and Laravel
 - Implementing DevOps practices with Azure cloud services and Docker containerization
@@ -170,10 +245,14 @@ specialization: [Web Development, AI/ML, DevOps, Enterprise Solutions]
 
 **Technologies:** React.js • Next.js • Laravel • Azure • Docker • MySQL • DevOps
 
----
+</details>
 
-### 🌐 Web Developer | MHG Trading CJSC
-**Jun 2021 - Jan 2022** • Riyadh, Saudi Arabia
+<details>
+<summary><b>🌐 Web Developer | MHG Trading CJSC</b> (Jun 2021 - Jan 2022)</summary>
+
+<br>
+
+**Location:** Riyadh, Saudi Arabia
 
 - Developed e-commerce platforms and CMS solutions for enterprise clients
 - Built responsive web applications using PHP frameworks and modern JavaScript
@@ -181,10 +260,14 @@ specialization: [Web Development, AI/ML, DevOps, Enterprise Solutions]
 
 **Technologies:** PHP • Laravel • JavaScript • WordPress • MySQL
 
----
+</details>
 
-### 💻 Front-end Developer | MHG Trading CJSC
-**Jan 2021 - Jun 2021** • Riyadh, Saudi Arabia
+<details>
+<summary><b>💻 Front-end Developer | MHG Trading CJSC</b> (Jan 2021 - Jun 2021)</summary>
+
+<br>
+
+**Location:** Riyadh, Saudi Arabia
 
 - Created responsive user interfaces with modern CSS frameworks
 - Implemented WordPress solutions and custom themes
@@ -192,9 +275,16 @@ specialization: [Web Development, AI/ML, DevOps, Enterprise Solutions]
 
 **Technologies:** HTML5 • CSS3 • JavaScript • WordPress • Bootstrap
 
+</details>
+
 ---
 
 ## 🎓 Education & Certifications
+
+<details>
+<summary><b>View Education & Certifications</b></summary>
+
+<br>
 
 **🎓 Bachelor of Applied Science (BASc) - Business & IT**
 *IU International University of Applied Sciences* • 2021-2025 (In Progress)
@@ -205,6 +295,8 @@ specialization: [Web Development, AI/ML, DevOps, Enterprise Solutions]
 **🏅 Introduction to Microsoft Dynamics 365**
 *Microsoft via Coursera* • July 2025
 [Verify Certificate](https://coursera.org/verify/SLYTIOO5TJJE)
+
+</details>
 
 ---
 
@@ -229,5 +321,13 @@ specialization: [Web Development, AI/ML, DevOps, Enterprise Solutions]
 
 </div>
 
-<!-- Animated Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=120&section=footer" width="100%" />
+<!-- Mobile-Responsive Wave Footer -->
+<picture>
+  <source media="(min-width: 769px)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=120&section=footer&width=1200">
+  <source media="(max-width: 768px)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=80&section=footer&width=768">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=120&section=footer"
+    width="100%"
+    alt="Footer Banner">
+</picture>
