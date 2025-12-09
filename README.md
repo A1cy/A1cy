@@ -93,17 +93,6 @@ experience: 6+ years
 
 ---
 
-## ⏱️ Coding Activity (Wakatime)
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</div>
-
----
-
 ## 🛠️ Technical Skills
 
 <details open>
