@@ -1,0 +1,62 @@
+[
+  {
+    "session_id": "ce506764-3fa4-4a1a-add9-cc36f3efdbff",
+    "transcript_path": "/home/a1xai/.claude/projects/-mnt-c-A1-Codes-A1cy/ce506764-3fa4-4a1a-add9-cc36f3efdbff.jsonl",
+    "cwd": "/mnt/c/A1 Codes/A1cy",
+    "hook_event_name": "SubagentStart",
+    "agent_id": "2b2c6ab7",
+    "agent_type": "Plan",
+    "start_time": "2025-12-09T10:45:17.934824",
+    "logged_at": "2025-12-09T10:45:17.936537"
+  },
+  {
+    "session_id": "ce506764-3fa4-4a1a-add9-cc36f3efdbff",
+    "transcript_path": "/home/a1xai/.claude/projects/-mnt-c-A1-Codes-A1cy/ce506764-3fa4-4a1a-add9-cc36f3efdbff.jsonl",
+    "cwd": "/mnt/c/A1 Codes/A1cy",
+    "hook_event_name": "SubagentStart",
+    "agent_id": "280169b2",
+    "agent_type": "Explore",
+    "start_time": "2025-12-09T10:45:17.937852",
+    "logged_at": "2025-12-09T10:45:17.948726"
+  },
+  {
+    "session_id": "ce506764-3fa4-4a1a-add9-cc36f3efdbff",
+    "transcript_path": "/home/a1xai/.claude/projects/-mnt-c-A1-Codes-A1cy/ce506764-3fa4-4a1a-add9-cc36f3efdbff.jsonl",
+    "cwd": "/mnt/c/A1 Codes/A1cy",
+    "hook_event_name": "SubagentStart",
+    "agent_id": "c9d9a54a",
+    "agent_type": "Explore",
+    "start_time": "2025-12-09T10:51:20.918786",
+    "logged_at": "2025-12-09T10:51:20.922819"
+  },
+  {
+    "session_id": "ce506764-3fa4-4a1a-add9-cc36f3efdbff",
+    "transcript_path": "/home/a1xai/.claude/projects/-mnt-c-A1-Codes-A1cy/ce506764-3fa4-4a1a-add9-cc36f3efdbff.jsonl",
+    "cwd": "/mnt/c/A1 Codes/A1cy",
+    "hook_event_name": "SubagentStart",
+    "agent_id": "bcb5ce5b",
+    "agent_type": "Explore",
+    "start_time": "2025-12-09T10:51:21.010405",
+    "logged_at": "2025-12-09T10:51:21.014030"
+  },
+  {
+    "session_id": "ce506764-3fa4-4a1a-add9-cc36f3efdbff",
+    "transcript_path": "/home/a1xai/.claude/projects/-mnt-c-A1-Codes-A1cy/ce506764-3fa4-4a1a-add9-cc36f3efdbff.jsonl",
+    "cwd": "/mnt/c/A1 Codes/A1cy",
+    "hook_event_name": "SubagentStart",
+    "agent_id": "d048867b",
+    "agent_type": "Explore",
+    "start_time": "2025-12-09T10:51:21.017500",
+    "logged_at": "2025-12-09T10:51:21.028397"
+  },
+  {
+    "session_id": "ce506764-3fa4-4a1a-add9-cc36f3efdbff",
+    "transcript_path": "/home/a1xai/.claude/projects/-mnt-c-A1-Codes-A1cy/ce506764-3fa4-4a1a-add9-cc36f3efdbff.jsonl",
+    "cwd": "/mnt/c/A1 Codes/A1cy",
+    "hook_event_name": "SubagentStart",
+    "agent_id": "a27e99b5",
+    "agent_type": "Plan",
+    "start_time": "2025-12-09T11:00:18.848806",
+    "logged_at": "2025-12-09T11:00:18.852680"
+  }
+]

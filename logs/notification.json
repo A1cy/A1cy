@@ -1,0 +1,32 @@
+[
+  {
+    "session_id": "ce506764-3fa4-4a1a-add9-cc36f3efdbff",
+    "transcript_path": "/home/a1xai/.claude/projects/-mnt-c-A1-Codes-A1cy/ce506764-3fa4-4a1a-add9-cc36f3efdbff.jsonl",
+    "cwd": "/mnt/c/A1 Codes/A1cy",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your attention",
+    "notification_type": "permission_prompt",
+    "timestamp": "2025-12-09T10:53:31.760167",
+    "logged_at": "2025-12-09T10:53:31.761929"
+  },
+  {
+    "session_id": "ce506764-3fa4-4a1a-add9-cc36f3efdbff",
+    "transcript_path": "/home/a1xai/.claude/projects/-mnt-c-A1-Codes-A1cy/ce506764-3fa4-4a1a-add9-cc36f3efdbff.jsonl",
+    "cwd": "/mnt/c/A1 Codes/A1cy",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt",
+    "timestamp": "2025-12-09T11:06:04.510394",
+    "logged_at": "2025-12-09T11:06:04.514894"
+  },
+  {
+    "session_id": "ce506764-3fa4-4a1a-add9-cc36f3efdbff",
+    "transcript_path": "/home/a1xai/.claude/projects/-mnt-c-A1-Codes-A1cy/ce506764-3fa4-4a1a-add9-cc36f3efdbff.jsonl",
+    "cwd": "/mnt/c/A1 Codes/A1cy",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "timestamp": "2025-12-09T11:19:23.016671",
+    "logged_at": "2025-12-09T11:19:23.020460"
+  }
+]

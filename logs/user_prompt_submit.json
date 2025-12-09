@@ -1,0 +1,11 @@
+[
+  {
+    "session_id": "ce506764-3fa4-4a1a-add9-cc36f3efdbff",
+    "transcript_path": "/home/a1xai/.claude/projects/-mnt-c-A1-Codes-A1cy/ce506764-3fa4-4a1a-add9-cc36f3efdbff.jsonl",
+    "cwd": "/mnt/c/A1 Codes/A1cy",
+    "permission_mode": "plan",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "very out dated buggy nd error  readme of my github profile :  https://github.com/A1cy/A1cy , we need to  first update all  content after gathering it from \"C:\\A1 Codes\\hadi.me\" you can find there my latsets resume my latest cv and content i wrote for my portfolio and here is my linkedin https://www.linkedin.com/in/a1hub ,  before taking action ask me quations about how i want this readme to  look and also do a deep dive of best ways to  make it look so proftional  !!",
+    "logged_at": "2025-12-09T10:50:51.889188"
+  }
+]
