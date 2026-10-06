@@ -1,354 +1,153 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi%2C+I'm+Abdulhadi+Alturafi;Full-Stack+Developer+%26+AI+Specialist;6%2B+Years+Building+Enterprise+Solutions;50%2B+Projects+%7C+40%2B+Clients;React+%E2%80%A2+Next.js+%E2%80%A2+Laravel+%E2%80%A2+Python;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+<!-- Every panel below is a self-hosted SVG in this repo. GitHub strips <script>
+     and inline CSS from READMEs but renders SMIL / CSS-keyframe animation inside
+     <img>-embedded SVGs, so all the motion lives in the files themselves.
+     Heatmap + stats are regenerated daily by .github/workflows/update-profile-art.yml;
+     portrait + info card are static (scripts/README.md). -->
+
+<h3><code>a1@github:~$ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="./portrait.svg" width="420" alt="Abdulhadi Alturafi, ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="420" alt="Abdulhadi Alturafi, Digital Transformation Manager at MHG Trading CJSC" /></td>
+</tr>
+</table>
+
+<br>
+
+<h3><code>a1@github:~$ ./contributions.sh --graph</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph, refreshed daily" />
+
+<br>
+<br>
+
+<h3><code>a1@github:~$ ./stats.sh</code></h3>
+
+<img src="./stats.svg" width="560" alt="Streak and contribution stats, refreshed daily" />
+
+<br>
+<br>
+
+<h3><code>a1@github:~$ ls ~/building</code></h3>
 
 </div>
-
-<!-- Mobile-Responsive Wave Banner -->
-<picture>
-  <source media="(min-width: 769px)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=180&section=header&text=Full-Stack%20Developer&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Building%20the%20Future%20with%20Code%20%26%20AI&descAlignY=55&descSize=16&width=1200">
-  <source media="(max-width: 768px)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=120&section=header&text=Full-Stack%20Developer&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Building%20the%20Future&descAlignY=60&descSize=12&width=768">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=180&section=header&text=Full-Stack%20Developer&fontSize=45&fontColor=fff"
-    width="100%"
-    alt="Header Banner">
-</picture>
-
-<div align="center">
-
-<!-- Profile Stats Badges -->
-
-![Public Repos](https://img.shields.io/badge/Public%20Repos-40-9D4EDD?style=for-the-badge&logo=github&logoColor=white)
-![Private Repos](https://img.shields.io/badge/Private%20Repos-60-00D9FF?style=for-the-badge&logo=github&logoColor=white)
-![Stars](https://img.shields.io/github/stars/A1cy?style=for-the-badge&logo=github&color=FF006E&logoColor=white)
-![Followers](https://img.shields.io/github/followers/A1cy?style=for-the-badge&logo=github&color=FF006E&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=A1cy&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-## 🎯 About Me
-
-<div align="center">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 👨‍💻 Professional Profile
-
-```yaml
-name: Abdulhadi Alturafi
-role: Full-Stack Developer & AI Integration Specialist
-location: Riyadh, Saudi Arabia 🇸🇦
-company: MHG Trading CJSC
-experience: 6+ years
-```
-
-💼 **Senior Full-Stack Developer @ MHG Trading CJSC** | 🌐 Enterprise Solutions | 🤖 AI/ML Integration | ☁️ Cloud Architecture | 📊 ERP Systems
-
-<br>
-
-📈 **Career Highlights:**
-
-- ✅ 50+ Projects Delivered
-- ✅ 40+ Satisfied Clients
-- ✅ Enterprise Deployments
-- ✅ Microsoft Dynamics 365 Certified
-
-🌐 **Portfolio:** [a1hadi.com](https://www.a1hadi.com)
-📫 **Email:** a1hvdy@gmail.com
+**Enterprise CRM on Dynamics 365**<br>
+One portal for 40+ branches across Saudi Arabia, China and Spain. Next.js front end on Dataverse, Microsoft Entra ID single sign-on, case management, a sales hub and live notifications. Replaced per-branch logins and took access outages to zero.
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://app.daily.dev/a1cy">
-  <img src="https://api.daily.dev/devcards/fd92dea392394781a4d0c3cdd8ed25da.png" width="100%" alt="Abdulhadi Alturafi's Dev Card"/>
-</a>
+**HireIQ, AI recruiting**<br>
+Hiring built into the CRM: job publishing, CV intake and AI scoring of every candidate, with a background sweep that retries anything the model missed so no applicant is scored by a fallback.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**Internal AI platform on AWS Bedrock**<br>
+Serves 200+ engineers and business users. Multi-layer model fallback, prompt caching and circuit breakers: 40% faster p95, 99.9% SLA, tracked on SLO dashboards.
+
+</td>
+<td valign="top">
+
+**Saudi-dialect voice agents**<br>
+Phone-grade voice AI on ElevenLabs that speaks Saudi Arabic from the first word, tested by scripted end-to-end calls before every release.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**Savvy / A1xOS**<br>
+My own AI operating system: a voice assistant with a live HUD, and a Claude Code workspace of 150+ skills that reviews its own sessions and proposes its own upgrades.
+
+</td>
+<td valign="top">
+
+**ERP automation**<br>
+Dynamics 365 and n8n pipelines with idempotent integrations and automated reconciliation: order-to-invoice 25% faster, 150+ engineering hours a month back.
 
 </td>
 </tr>
 </table>
 
-</div>
-
----
-
-## 📊 GitHub Stats Dashboard
-
 <div align="center">
 
-<!-- GitHub Activity Stats -->
+<br>
 
-![Commits](<https://img.shields.io/github/commit-activity/y/A1cy/A1cy?style=for-the-badge&logo=git&label=Commits%20(This%20Year)&color=9D4EDD&logoColor=white>)
-![Last Commit](https://img.shields.io/github/last-commit/A1cy/A1cy?style=for-the-badge&logo=github&label=Last%20Commit&color=00D9FF&logoColor=white)
+<h3><code>a1@github:~$ ./stack.sh</code></h3>
 
-<!-- Most Used Languages -->
-
-![JavaScript](https://img.shields.io/badge/JavaScript-45%25-0D1117?style=for-the-badge&logo=javascript&logoColor=00D9FF)
-![PHP](https://img.shields.io/badge/PHP-25%25-0D1117?style=for-the-badge&logo=php&logoColor=FF006E)
-![Python](https://img.shields.io/badge/Python-20%25-0D1117?style=for-the-badge&logo=python&logoColor=9D4EDD)
-![TypeScript](https://img.shields.io/badge/TypeScript-10%25-0D1117?style=for-the-badge&logo=typescript&logoColor=00D9FF)
-
-</div>
-
----
-
-## 🛠️ Technical Skills
-
-<details open>
-<summary><b>View Tech Stack</b></summary>
-
-<div align="center">
-
-### Languages
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00D9FF)
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=9D4EDD)
-![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&logoColor=FF006E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00D9FF)
-
-### Frontend Development
-
-![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=00D9FF)
 ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=FFFFFF)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=00D9FF)
-![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=FF006E)
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=00D9FF)
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=9D4EDD)
+![Supabase](https://img.shields.io/badge/-Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![Tailwind](https://img.shields.io/badge/-Tailwind-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=00D9FF)
 
-### Backend Development
+![Dynamics 365](https://img.shields.io/badge/-Dynamics%20365-0D1117?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMyAyMyI%2BPHBhdGggZmlsbD0iI2YzNTMyNSIgZD0iTTEgMWgxMHYxMEgxeiIvPjxwYXRoIGZpbGw9IiM4MWJjMDYiIGQ9Ik0xMiAxaDEwdjEwSDEyeiIvPjxwYXRoIGZpbGw9IiMwNWE2ZjAiIGQ9Ik0xIDEyaDEwdjEwSDF6Ii8%2BPHBhdGggZmlsbD0iI2ZmYmEwOCIgZD0iTTEyIDEyaDEwdjEwSDEyeiIvPjwvc3ZnPg%3D%3D)
+![Entra ID](https://img.shields.io/badge/-Entra%20ID-0D1117?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMyAyMyI%2BPHBhdGggZmlsbD0iI2YzNTMyNSIgZD0iTTEgMWgxMHYxMEgxeiIvPjxwYXRoIGZpbGw9IiM4MWJjMDYiIGQ9Ik0xMiAxaDEwdjEwSDEyeiIvPjxwYXRoIGZpbGw9IiMwNWE2ZjAiIGQ9Ik0xIDEyaDEwdjEwSDF6Ii8%2BPHBhdGggZmlsbD0iI2ZmYmEwOCIgZD0iTTEyIDEyaDEwdjEwSDEyeiIvPjwvc3ZnPg%3D%3D)
+![AWS](https://img.shields.io/badge/-AWS%20Bedrock-0D1117?style=for-the-badge)
+![Azure](https://img.shields.io/badge/-Azure-0D1117?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMyAyMyI%2BPHBhdGggZmlsbD0iI2YzNTMyNSIgZD0iTTEgMWgxMHYxMEgxeiIvPjxwYXRoIGZpbGw9IiM4MWJjMDYiIGQ9Ik0xMiAxaDEwdjEwSDEyeiIvPjxwYXRoIGZpbGw9IiMwNWE2ZjAiIGQ9Ik0xIDEyaDEwdjEwSDF6Ii8%2BPHBhdGggZmlsbD0iI2ZmYmEwOCIgZD0iTTEyIDEyaDEwdjEwSDEyeiIvPjwvc3ZnPg%3D%3D)
+![Vercel](https://img.shields.io/badge/-Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
+![n8n](https://img.shields.io/badge/-n8n-0D1117?style=for-the-badge&logo=n8n&logoColor=FF006E)
 
-![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF006E)
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=9D4EDD)
-![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00D9FF)
-![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=9D4EDD)
-
-### AI/ML & DevOps
-
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF006E)
-![PyTorch](https://img.shields.io/badge/-PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=9D4EDD)
-![Azure](https://img.shields.io/badge/-Azure-0D1117?style=for-the-badge&logo=microsoft-azure&logoColor=00D9FF)
+![Claude](https://img.shields.io/badge/-Claude%20Code-0D1117?style=for-the-badge&logo=anthropic&logoColor=FF006E)
+![ElevenLabs](https://img.shields.io/badge/-ElevenLabs-0D1117?style=for-the-badge&logo=elevenlabs&logoColor=FFFFFF)
+![Gemini](https://img.shields.io/badge/-Gemini-0D1117?style=for-the-badge&logo=googlegemini&logoColor=00D9FF)
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00D9FF)
 
-</div>
+<br>
 
-</details>
+<h3><code>a1@github:~$ ./links.sh</code></h3>
 
----
+<p><b>Digital Transformation Manager · AI Engineer · Riyadh</b></p>
 
-## 🏆 Achievements
-
-<div align="center">
-
-<!-- Achievement Badges -->
-
-![Projects](https://img.shields.io/badge/Projects-50%2B-9D4EDD?style=for-the-badge&logo=rocket&logoColor=white)
-![Clients](https://img.shields.io/badge/Clients-40%2B-00D9FF?style=for-the-badge&logo=users&logoColor=white)
-![Experience](https://img.shields.io/badge/Experience-6%2B%20Years-FF006E?style=for-the-badge&logo=calendar&logoColor=white)
-![Certified](https://img.shields.io/badge/Microsoft-Dynamics%20365-9D4EDD?style=for-the-badge&logo=microsoft&logoColor=white)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=A1cy&theme=react-dark&bg_color=0D1117&color=9D4EDD&line=00D9FF&point=FFFFFF&area=true&hide_border=true)
-
-</div>
-
----
-
-## 📊 GitHub Contributions
-
-<div align="center">
-
-<!-- Total Contributions Badge -->
-
-![Total Contributions](https://img.shields.io/badge/Total%20Contributions-1,648%2B-9D4EDD?style=for-the-badge&logo=github&logoColor=white)
-![This Year](https://img.shields.io/badge/This%20Year-Active%20Contributor-00D9FF?style=for-the-badge&logo=git&logoColor=white)
-
-<br><br>
-
-<!-- Year-long Contribution Heatmap -->
-
-![Contribution Heatmap](https://ghchart.rshah.org/9D4EDD/A1cy)
-
-</div>
-
----
-
-## 🚀 Featured Projects & Achievements
-
-### 🌐 [Professional Portfolio](https://www.a1hadi.com/cv/)
-
-> **Award-winning modern portfolio** showcasing 6+ years of enterprise development with interactive animations, comprehensive project documentation, and client testimonials. Features responsive design optimized for all devices.
-
-**Built With:** `Next.js` • `Tailwind CSS` • `Framer Motion` • `TypeScript` • `Vercel`
-
-**Highlights:** ⚡ 95+ PageSpeed Score • 📱 100% Mobile Responsive • 🎨 Interactive Animations
-
----
-
-### 🛒 Enterprise E-commerce Platform
-
-> **Scalable full-stack e-commerce solution** serving enterprise clients with advanced product management, real-time order processing, multi-payment gateway integration, and cloud deployment on Azure infrastructure.
-
-**Built With:** `React` • `Laravel` • `MySQL` • `Azure` • `Docker` • `Redis` • `Elasticsearch`
-
-**Impact:**
-
-- 📦 1000+ products with dynamic catalog management
-- 💳 Multiple payment gateway integrations (Stripe, PayPal, local gateways)
-- ☁️ Azure cloud infrastructure with auto-scaling
-- 📊 Real-time analytics dashboard
-- 🔐 Enterprise-grade security implementation
-
----
-
-### 🤖 AI/ML Business Intelligence Suite
-
-> **Enterprise machine learning platform** for natural language processing, sentiment analysis, predictive analytics, and automated business intelligence. Serves multiple enterprise clients with real-time data processing.
-
-**Built With:** `Python` • `TensorFlow` • `PyTorch` • `FastAPI` • `React` • `PostgreSQL` • `Docker`
-
-**Applications:**
-
-- 🧠 Advanced NLP with transformer models
-- 📊 Multi-class text classification with 95%+ accuracy
-- 🔮 Predictive modeling for business forecasting
-- 📈 Interactive data visualization dashboards
-- 🔄 Real-time data pipeline processing
-
----
-
-### 💼 Microsoft Dynamics 365 Integration & Certification
-
-> **Enterprise ERP specialist** certified in Microsoft Dynamics 365, implementing comprehensive business process automation solutions. Experience in CRM integration, workflow automation, and custom module development.
-
-**Certification:** [Verify Certificate](https://coursera.org/verify/SLYTIOO5TJJE) (July 2025)
-
-**Expertise:** CRM Integration • Business Process Automation • Custom Module Development • API Integration
-
----
-
-## 💼 Professional Experience
-
-<details open>
-<summary><b>🔥 Senior Full-Stack Developer | MHG Trading CJSC</b> (Jan 2022 - Present • 3+ Years)</summary>
+[![Site](https://img.shields.io/badge/Site-a1xai.vercel.app-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://a1xai.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-a1hub-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a1hub/)
+[![Email](https://img.shields.io/badge/Email-a1hvdy%40gmail.com-FF006E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a1hvdy@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-a1hvdi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a1hvdi/)
+[![X](https://img.shields.io/badge/X-a1hady-0D1117?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/a1hady)
 
 <br>
 
-**Location:** Riyadh, Saudi Arabia
-
-**Key Achievements:**
-
-- 🏆 Architected and delivered 30+ enterprise e-commerce platforms generating substantial revenue
-- 🚀 Led full-stack development for applications serving 1000+ products with 99.9% uptime
-- ☁️ Implemented comprehensive DevOps pipelines with Azure cloud services, reducing deployment time by 60%
-- 🤖 Integrated AI/ML capabilities into business solutions, improving predictive analytics accuracy by 40%
-- 📊 Managed database architectures handling 10M+ records with optimized query performance
-- 👥 Mentored junior developers and led cross-functional teams on complex projects
-
-**Technologies:** React.js • Next.js • Laravel • Azure • Docker • MySQL • MongoDB • TensorFlow • DevOps • CI/CD
-
-</details>
+</div>
 
 <details>
-<summary><b>🌐 Web Developer | MHG Trading CJSC</b> (Jun 2021 - Jan 2022 • 8 Months)</summary>
+<summary><b>a1@github:~$ cat experience.md</b></summary>
 
 <br>
 
-**Location:** Riyadh, Saudi Arabia
+**Digital Transformation Manager, MHG Trading CJSC** (2024 to present, Riyadh)
 
-**Key Achievements:**
+- Lead the company's digital transformation: enterprise CRM, AI platform, ERP automation
+- Architected and run the internal AI platform on AWS Bedrock for 200+ users: 40% faster p95, 99.9% SLA
+- Rolled out a single CRM portal with Entra ID SSO to 40+ branches in Saudi Arabia, China and Spain
+- Took ERP integration failures to near zero across Dynamics 365 and n8n, adopted by 3 business units
+- Built the release pipeline for a 6-engineer team: 8 major releases in 7 months, rollbacks down 60%
 
-- 🎯 Developed 15+ enterprise e-commerce platforms and CMS solutions with custom functionality
-- 💻 Built responsive web applications using PHP frameworks, achieving cross-browser compatibility
-- 🗃️ Implemented optimized database designs reducing query times by 50%
-- 🔧 Delivered WordPress solutions with custom themes and plugins for diverse business needs
+**Full-Stack Developer, MHG Trading CJSC** (2022 to 2024)
 
-**Technologies:** PHP • Laravel • JavaScript • WordPress • MySQL • REST APIs
+- Owned reliability of customer-facing Next.js and Laravel portals for 40+ branches at 99.9% uptime
+- Ran $1M+/yr of payment processing on Stripe and PayPal with idempotent webhooks and reconciliation
 
-</details>
+**Web Developer, MHG Trading CJSC** (2021 to 2022)
 
-<details>
-<summary><b>💻 Front-end Developer | MHG Trading CJSC</b> (Jan 2021 - Jun 2021 • 6 Months)</summary>
+- E-commerce platforms and CMS builds on PHP, Laravel and WordPress
 
-<br>
+**Education and certifications**
 
-**Location:** Riyadh, Saudi Arabia
-
-**Key Achievements:**
-
-- 🎨 Created 20+ responsive user interfaces with pixel-perfect design implementation
-- 📱 Achieved 100% mobile responsiveness across all projects with modern CSS frameworks
-- 🔗 Implemented WordPress solutions with custom themes, increasing client satisfaction
-- 🤝 Collaborated closely with UX/UI designers to deliver exceptional user experiences
-
-**Technologies:** HTML5 • CSS3 • JavaScript • WordPress • Bootstrap • Responsive Design
+- BASc Business & IT, IU International University of Applied Sciences
+- CS50 AI, HarvardX (2023)
+- Project Management, Google (2024)
+- Introduction to Microsoft Dynamics 365, Microsoft via Coursera (2025) · [verify](https://coursera.org/verify/SLYTIOO5TJJE)
 
 </details>
-
----
-
-## 🎓 Education & Certifications
-
-<details>
-<summary><b>View Education & Certifications</b></summary>
-
-<br>
-
-**🎓 Bachelor of Applied Science (BASc) - Business & IT**
-_IU International University of Applied Sciences_ • 2021-2025 (In Progress)
-
-**📜 Software Development Optimization Professional**
-_Universidad Anáhuac Mayab_ • December 2021 - December 2023
-
-**🏅 Introduction to Microsoft Dynamics 365**
-_Microsoft via Coursera_ • July 2025
-[Verify Certificate](https://coursera.org/verify/SLYTIOO5TJJE)
-
-</details>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0D1117?style=for-the-badge&logo=react&logoColor=00D9FF)](https://www.a1hadi.com/cv/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/a1hub/)
-[![Email](https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF006E)](mailto:a1hvdy@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=00D9FF)](https://twitter.com/a1hady)
-[![Instagram](https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=9D4EDD)](https://www.instagram.com/a1hvdi/)
-[![Daily.dev](https://img.shields.io/badge/-Daily.dev-0D1117?style=for-the-badge&logo=daily.dev&logoColor=FF006E)](https://app.daily.dev/a1cy)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 Open to Professional Collaboration
-
-**Expertise Areas:** Full-Stack Development • Cloud Solutions (Azure, AWS) • AI/ML Integration • ERP Systems (Dynamics 365) • Database Architecture & Optimization • Enterprise Solutions • DevOps & CI/CD
-
-**Project Types:** Enterprise Web Applications • E-commerce Platforms • AI-Powered Solutions • Business Intelligence Systems • Cloud Migration • Microservices Architecture
-
-</div>
-
-<!-- Mobile-Responsive Wave Footer -->
-<picture>
-  <source media="(min-width: 769px)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=120&section=footer&width=1200">
-  <source media="(max-width: 768px)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=80&section=footer&width=768">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=120&section=footer"
-    width="100%"
-    alt="Footer Banner">
-</picture>
