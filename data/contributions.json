@@ -1,22 +1,22 @@
 {
   "username": "A1cy",
-  "generated_at": "2026-11-07T13:00:19Z",
+  "generated_at": "2026-11-08T13:24:39Z",
   "range": {
-    "start": "2025-11-02",
-    "end": "2026-11-07"
+    "start": "2025-11-09",
+    "end": "2026-11-08"
   },
-  "total_contributions": 20991,
-  "active_days": 310,
-  "avg_per_active_day": 67.7,
+  "total_contributions": 20978,
+  "active_days": 306,
+  "avg_per_active_day": 68.6,
   "current_streak": {
-    "length": 42,
+    "length": 43,
     "start": "2026-09-27",
-    "end": "2026-11-07"
+    "end": "2026-11-08"
   },
   "longest_streak": {
-    "length": 42,
+    "length": 43,
     "start": "2026-09-27",
-    "end": "2026-11-07"
+    "end": "2026-11-08"
   },
   "best_day": {
     "date": "2026-08-18",
@@ -25,7 +25,7 @@
   "monthly": [
     {
       "month": "2025-11",
-      "total": 110
+      "total": 78
     },
     {
       "month": "2025-12",
@@ -73,45 +73,10 @@
     },
     {
       "month": "2026-11",
-      "total": 123
+      "total": 142
     }
   ],
   "days": [
-    {
-      "date": "2025-11-02",
-      "count": 4,
-      "level": 1
-    },
-    {
-      "date": "2025-11-03",
-      "count": 14,
-      "level": 1
-    },
-    {
-      "date": "2025-11-04",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-05",
-      "count": 1,
-      "level": 1
-    },
-    {
-      "date": "2025-11-06",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-07",
-      "count": 1,
-      "level": 1
-    },
-    {
-      "date": "2025-11-08",
-      "count": 12,
-      "level": 1
-    },
     {
       "date": "2025-11-09",
       "count": 5,
@@ -1929,7 +1894,12 @@
     },
     {
       "date": "2026-11-07",
-      "count": 3,
+      "count": 10,
+      "level": 1
+    },
+    {
+      "date": "2026-11-08",
+      "count": 12,
       "level": 1
     }
   ]
